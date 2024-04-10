@@ -1,0 +1,120 @@
+@charset "UTF-8";
+
+@font-face {
+    font-family: paragrafo;
+    src: url(../fonts/Themundayfreeversion-Regular.ttf) format(truetype);
+}
+
+@font-face {
+    font-family: olds;
+    src: url(../fonts/Reach-Fill&Outline.ttf) format(truetype);
+}
+
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+:root{
+    --cor01: #034159;
+    --cor02: #033859;
+    --cor03: #011526;
+    --cor04: #00070D;
+    
+}
+
+body{
+    background-color: var(--cor01);
+    color: white;
+}
+
+header{
+    background-color: var(--cor04);
+    text-align: center;
+    height: 200px;
+}
+
+header h1{
+    font-size: 70px;
+    font-family: olds;
+}
+
+header p{
+    font-family: paragrafo;
+    font-size: 35px;
+}
+
+nav{
+    background-color: var(--cor04);
+    padding: 10px;
+}
+
+nav > a{
+    color: rgb(126, 204, 255);
+    padding: 10px;
+    text-decoration: none;
+    font-weight: bold;
+    transition: 0.5s;
+    font-size: 25px;
+}
+
+nav > a:hover{
+    background-color: rgb(46, 55, 141);
+    color: var(--cor01);
+}
+
+main{
+    background-color: white;
+    width: 1200px;
+    height: 1150px;
+    margin: auto;
+    border-radius: 0px 0px 10px 10px;
+}
+
+main h1{
+    color: #00070D;
+    text-indent: 40px;
+    font-size: 60px;
+    font-family: olds;
+}
+
+main p{
+    color: #00070D;
+    text-indent: 90px;
+    font-size: 27px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+main img{
+    width: 90%;
+    margin-left: 60px;
+}
+
+.video{
+    width: 70%;
+    margin-left: 170px;
+}
+
+footer{
+    background-color: #00070D;
+    margin-top: 10px;
+    height: 100%;
+}
+
+footer p{
+    text-align: center;
+    font-size: 0.8em;
+    padding: 5px;
+}
+
+footer a{
+    color: white;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+footer a:hover{
+    text-decoration: underline;
+    color: var(--cor1);
+}
+
