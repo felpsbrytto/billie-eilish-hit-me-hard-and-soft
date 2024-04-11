@@ -33,6 +33,7 @@ header{
     min-height: 150px;
     text-align: center;
     padding: 40px;
+    width: auto;
 
 }
 
@@ -78,8 +79,7 @@ main{
 }
 
 .blosh{
-    width: 200px;
-    height: 100px;
+    width: 150px;
     margin-left: 450px;
     margin-top: 20px;
 }
@@ -108,6 +108,7 @@ main img{
 }
 
 .video{
+    width: 70%;
     margin-left: 170px;
 }
 
