@@ -32,7 +32,6 @@ header{
     background-color: var(--cor04);
     text-align: center;
     padding: 40px;
-    width: 100em;
 }
 
 header h1{
@@ -52,7 +51,6 @@ header p{
 nav{
     background-color: var(--cor04);
     padding: 10px;
-    width: 104em;
 }
 
 nav > a{
@@ -71,7 +69,7 @@ nav > a:hover{
 
 main{
     background-color: var(--cor01);
-    width: 30%;
+    width: 1200px;
     padding: 20px;
     margin: auto;
     border-radius: 0px 0px 10px 10px;
