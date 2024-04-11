@@ -36,14 +36,16 @@ header{
 
 header h1{
     color: #8C8F86;
-    font-size: 0x;
+    font-size: 4em;
     font-family: olds;
 }
 
 header p{
     color: #8C8F86;
     font-family: paragrafo;
-    font-size: 35px;
+    font-size: 2em;
+    max-width: 600px;
+    margin: auto;
 }
 
 nav{
