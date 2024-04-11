@@ -69,14 +69,19 @@ nav > a:hover{
 
 main{
     background-color: var(--cor01);
-    width: 1200px;
+    width: 45%;
     padding: 20px;
     margin: auto;
     border-radius: 0px 0px 10px 10px;
 }
 
 .blosh{
-    max-width: 5em;
+    max-width: 100%;
+    overflow: hidden;
+}
+
+.blosh {
+    width: 100%;
     height: auto;
 }
 
