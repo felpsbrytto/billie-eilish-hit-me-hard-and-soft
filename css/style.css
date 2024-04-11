@@ -71,7 +71,7 @@ nav > a:hover{
 
 main{
     background-color: var(--cor01);
-    width: 400px;
+    width: 50em;
     padding: 20px;
     margin: auto;
     border-radius: 0px 0px 10px 10px;
