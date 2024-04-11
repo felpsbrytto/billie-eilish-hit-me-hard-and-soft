@@ -32,6 +32,7 @@ header{
     background-color: var(--cor04);
     text-align: center;
     padding: 40px;
+    width: 100em;
 }
 
 header h1{
@@ -51,6 +52,7 @@ header p{
 nav{
     background-color: var(--cor04);
     padding: 10px;
+    width: 104em;
 }
 
 nav > a{
@@ -76,7 +78,7 @@ main{
 }
 
 .blosh{
-    max-width: 100%;
+    max-width: 5em;
     height: auto;
 }
 
