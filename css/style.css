@@ -26,7 +26,6 @@
 body{
     background-color: var(--cor03);
     color: white;
-    width: 1689px;
 }
 
 header{
@@ -69,8 +68,7 @@ nav > a:hover{
 
 main{
     background-color: var(--cor01);
-    min-width: 300px;
-    max-width: 500px;
+    width: ;
     margin-bottom: 30px;
     padding: 20px;
     margin: auto;
