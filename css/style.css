@@ -30,14 +30,13 @@ body{
 
 header{
     background-color: var(--cor04);
-    min-height: 150px;
     text-align: center;
     padding: 40px;
 }
 
 header h1{
     color: #8C8F86;
-    font-size: 70px;
+    font-size: 0px;
     font-family: olds;
 }
 
@@ -68,8 +67,7 @@ nav > a:hover{
 
 main{
     background-color: var(--cor01);
-    width: ;
-    margin-bottom: 30px;
+    width: 1200px;
     padding: 20px;
     margin: auto;
     border-radius: 0px 0px 10px 10px;
