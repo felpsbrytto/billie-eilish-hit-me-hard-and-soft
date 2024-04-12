@@ -93,7 +93,7 @@ main h1{
 }
 
 main p{
-    color: var(--cor04);
+    color: darkgray;
     text-align: justify;
     text-indent: 90px;
     font-size: 27px;
@@ -110,7 +110,7 @@ main img{
 
 .video{
     margin-left: 10px;
-    width: 400px;
+    width: 300px;
 }
 
 footer{
