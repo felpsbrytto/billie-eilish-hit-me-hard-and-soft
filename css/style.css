@@ -94,9 +94,9 @@ main h1{
 }
 
 main p{
-    color: rgb(252, 0, 0);
+    color: darkgray;
     text-align: justify;
-    text-indent: 60p;
+    text-indent: 49px;
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
 }
