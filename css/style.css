@@ -88,30 +88,28 @@ main{
 
 main h1{
     color: #8C8F86;
-    text-indent: 40px;
+    text-indent: 17px;
     font-size: 60px;
     font-family: olds;
 }
 
 main p{
     color: darkgray;
-    text-indent: 49px;
+    text-indent: 27px;
     font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
 main img{
     width: 100%;
-}
-
-.pequena{
-    width: 400px;
+    margin-top: 10px;
 }
 
 .video{
     background-color: var(--cor04);
     margin: 0px -20px 30px -20px;
     padding: 20px;
+    margin-top: 10px;
     padding-bottom: 58.8%;
     position: relative;
 }
