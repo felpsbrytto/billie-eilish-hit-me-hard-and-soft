@@ -67,6 +67,11 @@ nav > a:hover{
     color: white;
 }
 
+abbr{
+    text-decoration: none;
+    text-decoration: underline;
+}
+
 main{
     background-color: var(--cor01);
     width: 70%;
