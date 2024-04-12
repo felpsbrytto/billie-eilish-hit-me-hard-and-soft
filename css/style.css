@@ -81,8 +81,9 @@ main{
 }
 
 .blosh {
-    width: 5%;
+    width: 8%;
     height: auto;
+    margin: auto;
 }
 
 main h1{
