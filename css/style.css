@@ -94,10 +94,10 @@ main h1{
 }
 
 main p{
-    color: darkgray;
+    color: rgb(252, 0, 0);
     text-align: justify;
-    text-indent: 60px;
-    font-size: 24px;
+    text-indent: 60p;
+    font-size: 22px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
