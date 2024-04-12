@@ -68,7 +68,6 @@ nav > a:hover{
 }
 
 abbr{
-    text-decoration: none;
     text-decoration: underline;
 }
 
@@ -101,7 +100,7 @@ main h1{
 main p{
     color: darkgray;
     text-indent: 27px;
-    font-size: 22px;
+    font-size: 23px;
     font-family: Arial, Helvetica, sans-serif;
 }
 
