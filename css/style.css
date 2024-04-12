@@ -109,8 +109,19 @@ main img{
 }
 
 .video{
-    margin-left: 10px;
-    width: 300px;
+    background-color: var(--cor04);
+    margin: 0px -20px 30px -20px;
+    padding: 20px;
+    padding-bottom: 58.8%;
+    position: relative;
+}
+
+.video > iframe{
+    position: absolute;
+    top: 5%;
+    left: 5%;
+    width: 90%;
+    height: 90%;
 }
 
 footer{
